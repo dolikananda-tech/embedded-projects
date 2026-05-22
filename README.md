@@ -54,6 +54,7 @@ Embedded Debugging | Signal Analysis | Hardware Interfacing
 - Developed non-image-based plant health detection using *electrical impedance / bio-signal analysis*.
 - Integrated environmental sensor monitoring for controlled agricultural systems.
 - Designed embedded logic for anomaly detection in biological response signals.
+- ![Plant Signal Analysis](Healthy_and_diseased_plant_signals.png)
 
 ---
 
@@ -68,7 +69,7 @@ Embedded Debugging | Signal Analysis | Hardware Interfacing
 
 ---
 
-## Career Interests (ATS Keyword Alignment)
+## Career Interests
 
 - Embedded Firmware Engineer
 - Device Driver Development (Linux / MCU)
